@@ -1,0 +1,23 @@
+1- python -m venv [EnvName]
+
+2- activate using bat file and activate command
+
+3- python -m pip install pip --upgrade pip
+
+4- pip3 install torch~=1.7.1 -f https://download.pytorch.org/whl/torch_stable.html
+4- pip3 install torch -f I:\MlAgentFiles\torch.whl
+
+5- python -m pip install mlagents==0.30.0    
+
+6- pip3 install onnx
+
+* pip install protobuf==3.20.*
+* pip install mlagnets --use-feature=2020-reolver
+
+
+mlagents-learn
+mlagents-learn --force
+mlagents-learn --run-id=newID
+mlagents-learn Configs/SimpleAgentTest.yaml --run-id=trainID
+mlagents-learn --initilize-from-brainname --run-id=newID
+tensorboard --logdir result
