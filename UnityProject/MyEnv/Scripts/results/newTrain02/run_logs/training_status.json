@@ -1,0 +1,29 @@
+{
+    "SimpleAgent2": {
+        "checkpoints": [
+            {
+                "steps": 229120,
+                "file_path": "results\\newTrain02\\SimpleAgent2\\SimpleAgent2-229120.onnx",
+                "reward": 53.3,
+                "creation_time": 1694438549.9041839,
+                "auxillary_file_paths": [
+                    "results\\newTrain02\\SimpleAgent2\\SimpleAgent2-229120.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 229120,
+            "file_path": "results\\newTrain02\\SimpleAgent2.onnx",
+            "reward": 53.3,
+            "creation_time": 1694438549.9041839,
+            "auxillary_file_paths": [
+                "results\\newTrain02\\SimpleAgent2\\SimpleAgent2-229120.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.0.1+cpu"
+    }
+}
