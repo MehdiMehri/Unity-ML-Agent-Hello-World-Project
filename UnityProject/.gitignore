@@ -1,0 +1,10 @@
+.vsconfig
+*.sln
+*.csproj
+Library/
+Temp/
+Logs/
+Build/
+obj/
+.vs/
+.vscode/
