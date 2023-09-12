@@ -5,6 +5,7 @@ ML-agent and Torch are already installed.
 Unrar files are located in the address before starting training.
 
 UnityProject\MyEnv\Lib\site-packages\torch\lib\dnnl.rar
+
 UnityProject\MyEnv\Lib\site-packages\torch\lib\torch_cpu.rar
 
  This file size was over 100 MB so I RAR them to reduce the repo size.
